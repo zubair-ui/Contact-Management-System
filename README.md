@@ -18,12 +18,12 @@ It uses **Android Room** as the local database for storing and managing contacts
 1. Clone the repository:  
    ```sh
    git clone https://github.com/your-username/Contact-Management-System.git
-  sh```
+  
 2. Open the project in Android Studio
 3. Sync Gradle and build the project
 4. Run the app on an emulator or physical device
 
-##Usage
+## Usage
 - Open the app and click Add Contact to save a new contact
 - Click on any contact to edit or delete it
 - All contacts are stored locally using Room Database
