@@ -17,7 +17,7 @@ It uses **Android Room** as the local database for storing and managing contacts
 ## Installation  
 1. Clone the repository:  
    ```sh
-   git clone https://github.com/your-username/Contact-Management-System.git
+   git clone https://github.com/zubair-ui/Contact-Management-System.git
   
 2. Open the project in Android Studio
 3. Sync Gradle and build the project
